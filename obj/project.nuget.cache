@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "I9RSTi9Ze4OFPNI/LvrT5ZSiDEvOAm/DM7eVtCVkJI9ojwi/4DUmj1sXou1Mde0UhIx2H00kOfcLQgYLl5eqCQ==",
+  "success": true,
+  "projectFilePath": "/home/pgarcia/code/dotnet/dotnet-vite/Vite.csproj",
+  "expectedPackageFiles": [
+    "/home/pgarcia/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/6.0.0/microsoft.aspnetcore.spaservices.extensions.6.0.0.nupkg.sha512",
+    "/home/pgarcia/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/home/pgarcia/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "/home/pgarcia/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/home/pgarcia/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/pgarcia/.nuget/packages/proxykit/2.3.4/proxykit.2.3.4.nupkg.sha512",
+    "/home/pgarcia/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

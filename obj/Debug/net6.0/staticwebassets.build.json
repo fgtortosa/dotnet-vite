@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "5rZwV1DqqVClW4VylUv+wAmJ/j2fYwgqhFF8NGvsGxA=",
+  "Source": "Vite",
+  "BasePath": "_content/Vite",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Vite/wwwroot",
+      "Source": "Vite",
+      "ContentRoot": "/home/pgarcia/code/dotnet/dotnet-vite/wwwroot/",
+      "BasePath": "_content/Vite",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/home/pgarcia/code/dotnet/dotnet-vite/wwwroot/favicon.ico",
+      "SourceId": "Vite",
+      "SourceType": "Discovered",
+      "ContentRoot": "/home/pgarcia/code/dotnet/dotnet-vite/wwwroot/",
+      "BasePath": "_content/Vite",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/favicon.ico"
+    }
+  ]
+}
