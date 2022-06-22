@@ -3,8 +3,7 @@
 ### Enlaces para la configuracion
  
  - [Crear una plantilla a partir de la plantilla de Angular](https://www.dotnetcurry.com/aspnet-core/1525/angular-react-vuejs-svelte-spa-aspnet-core-3)
- - [Configuracion desde zero de una aplicacion Net Core 3 para funcionar con Vue]
-utilizando vue-cli. Útil para el funcionamiento de Axios](https://www.freecodecamp.org/news/how-to-build-an-spa-with-vuejs-and-c-using-net-core/)
+ - [Configuracion desde zero de una aplicacion Net Core 3 para funcionar con Vue utilizando vue-cli. Útil para el funcionamiento de Axios](https://www.freecodecamp.org/news/how-to-build-an-spa-with-vuejs-and-c-using-net-core/)
 - [Configuración de Net Core 3 con VueCliProxy](https://intellitect.com/blog/vue-cli-net-core-3-1/)
 - [Otro de Net Core 3 y Vue, en este caso con vue sin compilar](https://intellitect.com/blog/vue-cli-net-core-3-1/)
 
