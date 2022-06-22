@@ -9,9 +9,10 @@
 
 ### Uso de Vue con TypeScript
 
-- [https://github.com/lucasrocha1313/solar-coffe-web.git](Ejemplo con vue-cli)
-- [https://github.com/JDN89/dotnet-vue-todo-app](Ejemplo con Dapper, Vue, TypeScript: se debe de utilizar como modelo de aplicación)
-- 
+- [Ejemplo con vue-cli](https://github.com/lucasrocha1313/solar-coffe-web.git)
+- [Ejemplo con Dapper, Vue, TypeScript: se debe de utilizar como modelo de aplicación](https://github.com/JDN89/dotnet-vue-todo-app)
+
+ 
 ### Configuracion de vite
 
 Para utilizar la @ en los imports, se debe configurar el proyecto con el siguiente comando:
